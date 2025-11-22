@@ -1,4 +1,4 @@
 # operius
 Operius from OperaGX
 
-https://bitfexl.github.io/operius/
+credits to https://bitfexl.github.io/operius/
